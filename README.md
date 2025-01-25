@@ -21,7 +21,7 @@ Script automatizado para configurar un entorno de desarrollo en Manjaro Linux. I
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/TU_USUARIO/manjaro-sre-setup.git
+git clone https://github.com/giselacb/Manjaro-setup.git
 cd manjaro-sre-setup
 ```
 
